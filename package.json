@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/trevorwallis13/stopwatch/issues"
   },
-  "homepage": "https://github.com/trevorwallis13/stopwatch/dist",
+  "homepage": "https://trevorwallis13.github.io/stopwatch/dist",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
